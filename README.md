@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [www.furkanperktas.com](www.furkanperktas.com)
 
-- 🌱 I’m currently learning **React Native, Docker, Kubernetes, Jest, Unreal Engine**
+- 🌱 I’m currently learning Hono with Bun, Drizzle ORM, Cloudflare Workers, D1
 
 - 📫 How to reach me **furkanperktas@outlook.com**
 
